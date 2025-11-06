@@ -35,3 +35,8 @@
     border: 2px solid #263238;
     border-radius: 5px;
 }
+.card-body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
